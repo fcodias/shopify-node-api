@@ -49,6 +49,7 @@
     "uuid": "^8.3.1"
   },
   "devDependencies": {
+    "@react-native-community/eslint-plugin": "^1.1.0",
     "@shopify/eslint-plugin": "^39.0.3",
     "@types/cookies": "^0.7.5",
     "@types/jest": "^26.0.15",
